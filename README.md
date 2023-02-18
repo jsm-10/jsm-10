@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Sebastian</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
+<h3 align="center">A  lawyer  & full stack developer from Argentina</h3>
 
 <p align="left"> <a href="https://twitter.com/juuansemoreno" target="blank"><img src="https://img.shields.io/twitter/follow/juuansemoreno?logo=twitter&style=for-the-badge" alt="juuansemoreno" /></a> </p>
 
