@@ -11,8 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/juuansemoreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juuansemoreno" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@juan-sebas-moreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@juan-sebas-moreno" height="30" width="40" /></a>
-<a href="https://instagram.com/@juansebam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@juansebam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juan-sebas-moreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@juan-sebas-moreno" height="30" width="40" /></a>
+<a href="https://instagram.com/juansebam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@juansebam" height="30" width="40" /></a>
 <a href="https://www.behance.net/mjsolutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mjsolutions" height="30" width="40" /></a>
 </p>
 
