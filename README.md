@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/juuansemoreno" target="blank"><img src="https://img.shields.io/twitter/follow/juuansemoreno?logo=twitter&style=for-the-badge" alt="juuansemoreno" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **EVERY DAY**
 
 - 📫 How to reach me **jsm.juansebas@gmail.com**
 
