@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Sebastián Moreno.</h1>
 <h3 align="center">I am a lawyer and a student of the Technologist Degree in Computer Science at Universidad UADE.developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsm-10" alt="jsm-10" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
