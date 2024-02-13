@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Sebastián Moreno.</h1>
-<h3 align="center">I am a lawyer and a student of the Technologist Degree in Computer Science at Universidad UADE.developer from India</h3>
+<h3 align="center">I am a lawyer and a student of the Technologist Degree in Computer Science at Universidad UADE. Developer from Argentina </h3>
 
 
 <h3 align="left">Connect with me:</h3>
